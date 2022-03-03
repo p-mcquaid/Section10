@@ -27,7 +27,7 @@ int main(){
     {
         size_t pos = word.find(c);
         cout << pos << endl;
-        
+        cout << "Testing Git" << endl;
     }
     
     
