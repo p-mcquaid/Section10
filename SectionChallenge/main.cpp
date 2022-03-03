@@ -27,8 +27,9 @@ int main(){
     {
         size_t pos = word.find(c);
         cout << pos << endl;
-        cout << "Testing Git" << endl;
+        encodedWord = key.at(pos);
     }
+    cout << encodedWord << endl;
     
     
     return 0;
